@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yagoszn, DePaul '26 majoring in CS - Software Development concentration with a Data Science Minor
+- 👋 Hi, I’m Diego S. (@yagoszn), DePaul '26 majoring in CS - Software Development concentration with a Data Science Minor
 - 👀 I’m interested in improving my programming skills and making an impact in my community using them.
 - 🌱 I’m currently learning C through my computer systems class, SQL through my database systems class, and leetcoding it up in my spare time.
 - 📫 How to reach me: https://linkedin.com/in/dvsanchez04
